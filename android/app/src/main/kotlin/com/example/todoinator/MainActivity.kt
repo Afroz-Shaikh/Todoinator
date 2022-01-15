@@ -1,4 +1,4 @@
-package com.example.todoinator
+package com.afrozshaikh.todoinator
 
 import io.flutter.embedding.android.FlutterActivity
 

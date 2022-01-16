@@ -167,7 +167,7 @@ class _HomeViewState extends State<HomeView> {
             
             Expanded(child: Center(
               
-              child: Text('ToDoinator' ,style: TextStyle(color: Colors.white),),))
+              child: Text('ToDoinator' ,style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold),),))
           ],
         ),
       ),

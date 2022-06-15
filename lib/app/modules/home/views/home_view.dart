@@ -55,6 +55,8 @@ class _HomeViewState extends State<HomeView> {
                                     ),
                                     onPressed: () {
                                       sValue = tController.text;
+                                      print(tController.text);
+
                                       showCupertinoDialog(
                                           context: context,
                                           builder: (context) {
@@ -85,6 +87,7 @@ class _HomeViewState extends State<HomeView> {
                                                           base.dataStore
                                                               .addTask(
                                                                   task: task);
+                                                          tController.clear();
                                                         }
                                                       },
                                                           currentTime:

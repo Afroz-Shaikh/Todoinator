@@ -14,9 +14,7 @@ Daily ToDo app made with Hive & Flutter
 
 
 ![image](https://github.com/Afroz-Shaikh/Todoinator/blob/main/assets/Screen1.jpeg)
-
-
-
+![image](https://github.com/Afroz-Shaikh/Todoinator/blob/main/assets/Addtask.jpeg)
 
 
 

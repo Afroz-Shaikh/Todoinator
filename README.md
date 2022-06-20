@@ -1,5 +1,4 @@
 # Todoinator
-
 Daily ToDo app made with Hive & Flutter
 
 <img src="https://github.com/Afroz-Shaikh/Todoinator/blob/main/Frame%201.png" alt="s1" width="300">
